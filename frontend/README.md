@@ -9,7 +9,7 @@
 Este proyecto está compuesto por dos carpetas las cuales se denominan: (backend y frontend), y este proyecto maneja una base de datos la cual se realizó en el gestor de base de datos "phpMyAdmin", a continiacion hago descripción de cada uno. La carpeta frontend está trabajada sobre Bootstrap 3 y usa una version de angular CLI 12.0.3 usando nodejs 14.17.1;
 El archivo fronent viene con una gran colección de elementos que te ofrece múltiples accesos para el funcionamiento de la aplicación y es amigable con el entorno gráfico ya que la constitución de estos elementos vienen organizados para el mejor manejo de estos. 
 El archivo backend está constituida por un conjunto de clases, repositorios y controladores los cuales brindan el correcto manejo de toda la aplicación, este se comunica con la archivo backend por medio da las urls de modo que conecta los metodos de este archivo.
-La base de datos contiene toda la información de todos los usuarios y casas que se encuentran registrados actualmente, también tiene la información de las calificaciones que generan los usuarios y los propietarios al terminar la respectiva reserva de sus casas y servicios.
+La base de datos contiene toda la información de todos los usuarios.
 
 (src/assets/img/BannerTravel.gif)
 ## Links de descargas por orden:
