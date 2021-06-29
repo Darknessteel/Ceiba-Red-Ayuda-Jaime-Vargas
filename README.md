@@ -6,7 +6,7 @@
 # [Light Bootstrap Dashboard Angular](https://demos.creative-tim.com/light-bootstrap-dashboard-angular2/dashboard)
 [![version][version-badge]][CHANGELOG] ![license][license-badge]
 
-![alt text](frontend/src/assets/img/BannerTravel.gif)
+![alt text](frontend/src/assets/img/opt_lbd_angular_thumbnail.jpg)
 
 **[Light Bootstrap Dashboard Angular]
 Este proyecto está compuesto por dos carpetas las cuales se denominan: (backend y frontend), y este proyecto maneja una base de datos la cual se realizó en el gestor de base de datos "phpMyAdmin", a continiacion hago descripción de cada uno. La carpeta frontend está trabajada sobre Bootstrap 3 y usa una version de angular CLI 12.0.3 usando nodejs 14.17.1;
