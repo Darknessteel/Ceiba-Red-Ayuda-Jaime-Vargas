@@ -11,7 +11,7 @@ El archivo fronent viene con una gran colección de elementos que te ofrece múl
 El archivo backend está constituida por un conjunto de clases, repositorios y controladores los cuales brindan el correcto manejo de toda la aplicación, este se comunica con la archivo backend por medio da las urls de modo que conecta los metodos de este archivo.
 La base de datos contiene toda la información de todos los usuarios.
 
-(src/assets/img/BannerTravel.gif)
+![alt text](src/assets/img/BannerTravel.gif)
 ## Links de descargas por orden:
 
 + [Nodejs](https://nodejs.org/es/download/)
